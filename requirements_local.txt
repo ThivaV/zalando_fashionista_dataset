@@ -4,4 +4,8 @@ tqdm
 numpy
 pandas
 requests
-datesets
+datasets
+matplotlib
+seaborn
+python-dotenv
+python-box
