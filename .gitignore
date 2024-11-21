@@ -161,8 +161,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-notebooks/to_hf/hf_ds/hf_df_x100/*.jpg
-notebooks/to_hf/hf_ds/hf_df_x300/*.jpg
-
-data/processed_data/v1.0/imgs/x100_small/*.jpg
-data/processed_data/v1.0/imgs/x300_small/*.jpg
+data/processed_data/v1.0/imgs/x100_small/**/*.jpg
+data/processed_data/v1.0/imgs/x300_medium/**/*.jpg
