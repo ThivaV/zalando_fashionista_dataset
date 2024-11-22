@@ -163,5 +163,5 @@ cython_debug/
 
 .vscode/
 
-data/processed_data/v1.0/imgs/x100_small/**/*.jpg
+# data/processed_data/v1.0/imgs/x100_small/**/*.jpg
 data/processed_data/v1.0/imgs/x300_medium/**/*.jpg
